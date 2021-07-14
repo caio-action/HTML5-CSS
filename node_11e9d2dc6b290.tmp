@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+    <head>
+        <title>Teste JavaScript</title>
+        <meta charset="utf-8"/>
+    <script>
+    
+    </script>
+
+
+</head>
+
+  <body>
+      <h1>Acenda a lâmpada</hh1>
+          <img src="_imagens/lampada-apagada.jpg"/>
+  </body>
+  </html>
